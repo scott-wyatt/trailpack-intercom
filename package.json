@@ -18,7 +18,8 @@
   ],
   "dependencies": {
     "intercom-client": "^2.8.5",
-    "trailpack": "latest"
+    "trailpack": "latest",
+    "trails-service": "^1.0.0"
   },
   "devDependencies": {
     "lodash": "^4.11.1",
