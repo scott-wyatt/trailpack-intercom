@@ -39,6 +39,6 @@
   "eslintConfig": {
     "extends": "trails"
   },
-  "repository": "git@github.com:CaliStyle/jooseontap-auth.git",
+  "repository": "git@github.com:scott-wyatt/trailpack-intercom.git",
   "license": "Apache-2.0"
 }
