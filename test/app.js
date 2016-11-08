@@ -14,7 +14,7 @@ module.exports = _.defaultsDeep({
   },
   config: {
     intercom: {
-      token: ''
+      token: 'token'
     },
     main: {
       packs: [

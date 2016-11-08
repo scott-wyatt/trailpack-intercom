@@ -10,7 +10,7 @@ module.exports = class IntercomTrailpack extends Trailpack {
    */
   validate () {
     return Promise.all([
-      lib.Validator.validateConfig(this.app.config.config)
+      lib.Validator.validateConfig(this.app.config.intercom)
     ])
   }
 
