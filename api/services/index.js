@@ -1,0 +1,1 @@
+exports.IntercomService = require('./IntercomService')
